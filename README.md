@@ -1,5 +1,7 @@
 # Java-Animator
 
+
+## To Run an Animation
 Pass an input into the main method:
   - -in "name-of-animation-file" -view "type-of-view" -out "where-output-should-go" -speed "integer-ticks-per-second"
 
