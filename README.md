@@ -1,7 +1,7 @@
 # Java-Animator
 
 Pass an input into the main method:
-  -in "name-of-animation-file" -view "type-of-view" -out "where-output-should-go" -speed "integer-ticks-per-second"
+  - -in "name-of-animation-file" -view "type-of-view" -out "where-output-should-go" -speed "integer-ticks-per-second"
 
 -in "name-of-animation-file" is:
   - Any file that fits the template for a text animation. Examples of these files can be found in the animations folder.
